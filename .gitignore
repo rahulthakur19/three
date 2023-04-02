@@ -1,0 +1,10 @@
+// IDE
+.idea
+.DS_Store
+
+// Vagrant
+.vagrant
+Vagrantfile
+
+// Bower
+bower_components

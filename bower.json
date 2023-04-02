@@ -1,0 +1,21 @@
+{
+  "name": "auto-show",
+  "version": "0.0.0",
+  "authors": [
+    "Alex Prut <mail@alexprut.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "threejs": "*",
+    "stats.js": "*",
+    "colpick-jQuery-Color-Picker": "https://github.com/josedvq/colpick-jQuery-Color-Picker.git#~2.0.2",
+    "jquery": "~2.1.4"
+  }
+}
